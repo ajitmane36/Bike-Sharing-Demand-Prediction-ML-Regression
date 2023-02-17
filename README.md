@@ -26,7 +26,7 @@ This project aims to build a predictive model that could predict the number of r
      Holiday - Holiday/No holiday
      Functional Day - NoFunc(Non Functional Hours), Fun(Functional hours)
 #### <ins>Data Cleaning and Data Preprocessing</ins>
-     [1] Handling Duplicate Values</b>
+     [1] Handling Duplicate Values
      - Dataset having 0 duplicated values.
      [2] Handling Null / Missing Values
      - Dataset having 0 null values.
