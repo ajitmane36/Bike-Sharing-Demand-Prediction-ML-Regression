@@ -12,7 +12,7 @@ This project aims to build a predictive model that could predict the number of r
      
      Attribute Information:
      Date : year-month-day
-     Rented Bike count - Count of bikes rented at each hour
+     Rented Bike count - Count of bikes rented at each hour.
      Hour - Hour of the day
      Temperature-Temperature in Celsius
      Humidity - %
